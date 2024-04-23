@@ -18,7 +18,7 @@ This script is designed to monitor a specified log file for new entries and anal
 5. Navigate to the directory where the script is saved.
 6. Run the script using the following command:
     ```
-    python log_monitor.py
+    python Task.py
     ```
 
 ## Additional Notes:
